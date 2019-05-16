@@ -1,0 +1,11 @@
+#map {
+  height: 640px;
+}
+
+.content-wrapper {
+  padding: 2em;
+}
+
+h1 {
+  text-align: center;
+}
